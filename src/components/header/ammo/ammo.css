@@ -1,0 +1,13 @@
+.ammo-container {
+  margin: 5px;
+}
+.ammo {
+  height: 50px;
+  width: 50px;
+}
+
+.ammo-text {
+  font-size: 63px;
+  display: inline;
+  height: auto;
+}

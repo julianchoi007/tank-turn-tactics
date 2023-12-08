@@ -1,12 +1,13 @@
 import "./App.css";
 import { Auth } from "./components/auth";
 import { Board } from "./components/board/board";
-import { Tile } from "./components/tile/tile";
+import { Header } from "./components/header/header";
 function App() {
   return (
     <div className="App">
-      <Auth />
+      <Header />
       <Board />
+      <Auth />
     </div>
   );
 }

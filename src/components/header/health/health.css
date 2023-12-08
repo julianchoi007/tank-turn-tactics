@@ -1,0 +1,13 @@
+.health-container {
+  margin: 5px;
+}
+.heart {
+  height: 50px;
+  width: 63px;
+}
+
+.health-text {
+  font-size: 63px;
+  display: inline;
+  height: auto;
+}
