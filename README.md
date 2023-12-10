@@ -1,3 +1,7 @@
+# tank-turn-tactics
+
+Tank turn tactics using firebase and react
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
