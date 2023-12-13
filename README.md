@@ -1,3 +1,3 @@
 # tank-turn-tactics
 
-Tank turn tactics using firebase and react
+Tank turn tactics using firebase and react using github
